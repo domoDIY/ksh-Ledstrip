@@ -3,7 +3,7 @@
 #                                                                                   #
 # Script created by dresder for domotique DIY                                       # 
 # The script purpose is to vary PWM levels on 3 GPIO to create color change effects #
-# https://domotique-diy.home.blog/2018/11/15/ledstrip-rgb-raspberry-pi/             #
+# https://domodiy.blogspot.com/2018/11/controler-un-strip-led-rgb-avec-un.html      #
 # Contact : dresder@gmail.com                                                       #
 #                                                                                   #
 #    This program is free software: you can redistribute it and/or modify           #
